@@ -5,4 +5,4 @@ Tools & scripts for blockchain experiments and small utilities.
 
 ## Run
 `bash
-python main.p
+python main.py
