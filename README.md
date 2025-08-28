@@ -4,5 +4,5 @@ A collection of scripts, tools, and resources for exploring blockchain, testnets
 Tools & scripts for blockchain experiments and small utilities.
 
 ## Run
-`bas
+`bash
 python main.py
